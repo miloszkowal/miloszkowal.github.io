@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Experiments in Automation</title>
+    <link>https://miloszkowal.github.io/</link>
+    <description>Recent content on Experiments in Automation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Nov 2018 19:17:35 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://miloszkowal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Siri Shortcuts: A Great Start, But Falls Short in Its Purpose</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://miloszkowal.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 21 Nov 2018 19:17:35 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://miloszkowal.github.io/posts/my-first-post/</guid>
       <description>Introduction With iOS 12, Apple finally told us what they’re doing with their acquisition of Workflow. The answer came in the form of Siri Shortcuts, a whole new app (really just an update to the existing Workflow app), which promised automation capabilities that could be triggered with the world’s fickle digital assistant. Shortly after the first beta releases of iOS 12 were available to developers and to the public, Apple released the Siri Shortcuts beta to developers so that they could adapt their apps to the new Siri APIs.</description>
     </item>
     
