@@ -6,10 +6,20 @@
     <description>Recent content on Experiments in Automation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Nov 2018 19:17:35 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 13:52:47 -0400</lastBuildDate>
     
 	<atom:link href="https://miloszkowal.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automating Habit Tracking using Habitify and Siri Shortcuts</title>
+      <link>https://miloszkowal.github.io/posts/automating-habits/</link>
+      <pubDate>Mon, 09 Sep 2019 13:52:47 -0400</pubDate>
+      
+      <guid>https://miloszkowal.github.io/posts/automating-habits/</guid>
+      <description>Introduction As countless books may tell you, habits are the key to success. These small behaviors that one works into their lifestyle over time can make dramatic changes down the line. Much like the power of compounding interest in the bank, habits are like the daily deposits we make into the account of life.
+Ideally, habits are automated. That is, they become so ingrained in our lifestyles and psyches that we don&amp;rsquo;t even think twice about doing them.</description>
+    </item>
     
     <item>
       <title>Siri Shortcuts: A Great Start, But Falls Short in Its Purpose</title>
